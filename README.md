@@ -14,24 +14,6 @@
 | **Former Product Manager** | **RAG Systems** | **Building Agentic Workflows** |
 | **AI Undergraduate** | **Engineering** | **Refining LLM Pipelines** |
 
----
-
-### 🛠️ Core Pillars
-
-#### 📚 RAG Engineering
-`Milvus` · `FAISS` · `Hybrid Search` · `Semantic Reranking` · `ragas Evaluation`
-
-#### 🧠 Agentic Logic
-`LangGraph` · `State Machines` · `Multi-turn Memory` · `MCP Implementation`
-
-#### 🏗️ Full-Stack Infra
-`Python` · `FastAPI` · `vLLM` · `Ollama` · `Redis` · `LoRA/PEFT` · `Mini-Program`
-
----
-
-<div align="right">
-
-*“Logic in code, value in product.”*
 
 </div>
 
