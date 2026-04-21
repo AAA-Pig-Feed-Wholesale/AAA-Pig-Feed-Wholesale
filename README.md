@@ -1,40 +1,67 @@
 <div align="center">
 
-## AAA-Pig-Feed-Wholesale
+# 🤖 AAA-Pig-Feed-Wholesale
 
-**AI Application Development · RAG · LLM Workflow**
+**AI Application Developer | RAG Specialist | LLM Workflow Architect**
 
-Learning by building practical projects.
+理论与实践的桥梁，在构建中进化。
+  
+[![](https://img.shields.io/badge/Focus-RAG%20%26%20Multi--modal-blue?style=for-the-badge&logo=probot&logoColor=white)]()
+[![](https://img.shields.io/badge/Status-Seeking%20Internship-green?style=for-the-badge)]()
 
 </div>
 
-<br>
+---
 
-### About
+### 📖 About Me
 
-I’m interested in practical AI application development, especially RAG, multi-modal workflows, and useful tools.
+我是一名专注于 **实用型 AI 应用开发** 的开发者。我推崇“以终为始”的学习哲学，擅长通过拆解复杂问题并迭代工程实现，将 AI 能力转化为实际生产力。
 
-I prefer learning through hands-on projects, improving systems step by step, and keeping ideas close to implementation.
+- 🔍 **核心领域**：检索增强生成 (RAG)、多模态工作流、Prompt 工程。
+- 🛠️ **工程哲学**：保持系统简洁，关注性能瓶颈，持续优化闭环。
 
-### Focus
+---
 
-- RAG systems
-- Multi-modal AI applications
-- Prompt engineering
-- Backend support for AI tools
+### 🚀 Technical Stack
 
-### Selected Projects
+| Category | Tools & Frameworks |
+| :--- | :--- |
+| **AI Frameworks** | ![LangChain](https://img.shields.io/badge/-LangChain-121011?style=flat&logo=chainlink) ![HuggingFace](https://img.shields.io/badge/-Hugging%20Face-F5D142?style=flat&logo=huggingface&logoColor=black) ![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-000000?style=flat) |
+| **Backend & DB** | ![FastAPI](https://img.shields.io/badge/-FastAPI-05998B?style=flat&logo=fastapi&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white) ![FAISS](https://img.shields.io/badge/-FAISS-044F88?style=flat) |
+| **Model Fine-tuning** | ![LoRA](https://img.shields.io/badge/-LoRA-blueviolet?style=flat) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
 
-**Medical Intelligent QA System**  
-RAG, reranking, memory, caching, and multi-modal input.
+---
 
-**Preference Classification Project**  
-Fine-tuning, pipeline design, and inference optimization for LLM-related tasks.
+### 🛠️ Selected Projects
 
-### Stack
+#### 🏥 Medical Intelligent QA System
+> **核心标签：RAG / Re-ranking / Multi-modal**
+- **挑战**：解决医疗问答中的幻觉问题与专业术语对齐。
+- **方案**：集成多级检索增强、语义重排序 (Rerank) 与对话缓存，支持多模态输入解析。
+- **效果**：显著提升了复杂医疗咨询场景下的回答准确度与上下文关联性。
 
-Python · LangChain · FAISS · FastAPI · Redis · Hugging Face · LoRA
+#### ⚖️ LLM Preference Classification
+> **核心标签：Fine-tuning / Inference Optimization**
+- **挑战**：针对特定领域的偏好判断进行模型微调。
+- **方案**：设计完整的端到端 Pipeline，利用 LoRA 进行高效微调，并对推理过程进行量化优化。
 
-### Notes
+---
 
-This profile is mainly used to document learning, experiments, and project building.
+### 📈 Learning Notes & Thoughts
+
+> "Building is the best form of learning."
+
+我习惯将实验过程文档化，这不仅是我的知识库，也是我思维演进的足迹。目前正在深度探索：
+- [ ] 大模型长文本处理优化
+- [ ] Agentic Workflow 的鲁棒性设计
+- [ ] 多模态数据的向量对齐方案
+
+---
+
+<div align="center">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+*Stay hungry, stay coding.*
+</div>
