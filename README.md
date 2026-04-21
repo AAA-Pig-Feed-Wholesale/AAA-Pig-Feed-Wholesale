@@ -1,38 +1,40 @@
 <div align="center">
 
 # 🤖 AAA-Pig-Feed-Wholesale
-
 **AI Application Developer | Former Product Manager**
 
 [![](https://img.shields.io/badge/sls339643%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white&labelColor=333333&link=mailto:sls339643@gmail.com)]()
 
-</div>
-
 ---
 
 ### 🚀 Background
-- **Academic**: CS Master Candidate specializing in Artificial Intelligence.
-- **Career Pivot**: 1 year in **Product Management** $\rightarrow$ **AI Application Engineering**.
-- **Philosophy**: Engineering with a product mindset to build reliable, user-centric LLM systems.
+- **Academic**: CS Master Candidate specializing in AI.
+- **Pivot**: 1 Year **Product Management** $\rightarrow$ **AI Application Engineering**.
+- **Philosophy**: Applying engineering precision with a product-driven mindset.
 
 ---
 
 ### 🛠️ Technical Ecosystem
 
-| **Knowledge & RAG** | **Agentic Intelligence** | **Core Engineering** |
+| **RAG Engineering** | **Agentic Logic** | **Full-Stack Infra** |
 | :--- | :--- | :--- |
-| **Search**: Milvus, FAISS | **Framework**: LangGraph | **Backend**: Python, FastAPI |
-| **Retrieval**: Hybrid Search | **Orchestration**: State Machines | **Inference**: vLLM, Ollama |
-| **Refinement**: Semantic Reranking | **Persistence**: Multi-turn Memory | **Infra**: Redis, Pydantic |
-| **Evaluation**: ragas, Benchmarks | **Protocols**: MCP Implementation | **Front**: WeChat Mini-Programs |
+| 🔍 **Milvus** / FAISS / Redis | 🤖 **LangGraph** / LangChain | 🐍 **Python** / FastAPI / Pydantic |
+| 📊 **Hybrid Search** (Dense/Sparse) | 🧠 **State Machines** & Logic | 🚀 **vLLM** / Ollama / LoRA |
+| 🛡️ **Reranking** / Context Distill | 💾 **Multi-turn Memory** | ⚡ **Redis** / Session Management |
+| 🧪 **ragas** / RAG Evaluation | 🔌 **MCP** Implementation | 🎨 **WeChat Mini-Program** / React |
 
 ---
 
 ### 🎯 Strategic Focus
 
-- **Agentic Reliability**: Moving beyond stateless prompts to architecting robust, intent-driven agents using **LangGraph** for complex task decomposition and stateful persistence.
-- **High-Precision Retrieval**: Elevating RAG pipelines through multi-stage retrieval, query rewriting, and context distillation to achieve production-grade knowledge grounding.
-- **Production-Scale Delivery**: Bridging LLM capabilities with scalable backend infrastructure and high-fidelity interfaces, with a focus on inference cost and latency optimization.
+#### **1. High-Precision RAG**
+Optimizing the knowledge retrieval chain through **Query Rewriting**, **Semantic Reranking**, and **Context Compression** to ensure production-grade accuracy and reliability.
+
+#### **2. Agentic Workflow Orchestration**
+Designing state-machine-driven agents with **LangGraph** to handle complex task decomposition, intent analysis, and long-term memory persistence.
+
+#### **3. Production-Ready Engineering**
+Bridging advanced LLM capabilities with scalable backends, focusing on inference performance (vLLM), cost-effective context governance, and seamless cross-platform integration.
 
 ---
 
