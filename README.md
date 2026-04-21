@@ -1,37 +1,38 @@
 <div align="center">
 
-# 🧩 AAA-Pig-Feed-Wholesale
-**AI Application Developer | Former Product Manager | UI/UX Specialist**
+# 🤖 AAA-Pig-Feed-Wholesale
+
+**AI Application Developer | Former Product Manager**
 
 [![](https://img.shields.io/badge/sls339643%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white&labelColor=333333&link=mailto:sls339643@gmail.com)]()
-
-*“Synthesizing product intuition with engineering precision.”*
 
 </div>
 
 ---
 
-### 💡 The Value Proposition
-I bridge the gap between complex user needs and robust AI implementation. With a background as a **UI Designer** and **Product Manager**, I don't just build LLM pipelines—I architect user-centric AI experiences. My work focuses on making LLMs reliable, steerable, and seamlessly integrated into production environments.
+### 🚀 Background
+- [cite_start]**Academic**: CS Master Candidate specializing in AI[cite: 8, 13, 57].
+- [cite_start]**Career Pivot**: 1 year in **Product Management** $\rightarrow$ **AI Application Engineering**[cite: 18, 19, 52].
+- [cite_start]**Core Competence**: Building production-ready LLM systems with an engineering-first approach[cite: 52, 91].
 
 ---
 
-### 🛠️ Technical Ecosystem
+### 🛠️ Technical Pillars
 
-| **Intelligence & Orchestration** | **Knowledge & Retrieval** | **Core Engineering** |
+| **RAG Systems** | **AI Agents & Logic** | **AI Engineering** |
 | :--- | :--- | :--- |
-| 🤖 **Agentic Workflows**: LangGraph, LangChain | 🔍 **Neural Search**: Milvus, FAISS, Weaviate | 🐍 **Backend**: Python, FastAPI, Pydantic |
-| 🧠 **Reasoning**: Intent Analysis, State Machines | 📊 **RAG Ops**: Hybrid Search, Reranking | ⚡ **Data**: Redis, PostgreSQL, JSON Ops |
-| 🔌 **Connectivity**: MCP (Model Context Protocol) | 🧪 **Evaluation**: ragas, LLM-as-a-Judge | 🚀 **Inference**: vLLM, Ollama, TensorRT |
-| 🎨 **Interface**: Generative UI, React, Vite | 📦 **Processing**: Unstructured Data, OCR | ⚙️ **Fine-tuning**: LoRA, PEFT, DeBERTa |
+| [cite_start]**Search**: Milvus, FAISS [cite: 66, 79] | [cite_start]**Framework**: LangGraph  | [cite_start]**Core**: Python, FastAPI [cite: 72, 73] |
+| [cite_start]**Retrieval**: Hybrid Search [cite: 66, 80] | [cite_start]**State**: State Machines  | [cite_start]**Infra**: vLLM, Ollama [cite: 77, 90] |
+| [cite_start]**Quality**: Reranking, ragas  | [cite_start]**Memory**: Long-term Persistence [cite: 73, 82] | [cite_start]**Optimization**: LoRA, PEFT [cite: 83, 90] |
+| [cite_start]**Strategy**: Context Governance  | [cite_start]**Protocol**: MCP Implementation [cite: 90] | [cite_start]**Data**: Redis, JSON Ops [cite: 73, 78] |
 
 ---
 
-### 🎯 Strategic Focus
+### 🎯 Current Focus
 
-* **Agentic Persistence**: Shifting from stateless prompts to state-machine-driven agents that manage long-term memory and complex task decomposition.
-* **Production-Grade RAG**: Moving beyond basic retrieval by implementing semantic re-ranking, query rewriting, and context distillation to minimize hallucinations.
-* **Product-Engineer Synergy**: Leveraging my PM and UI background to design "Agent-Native" interfaces that make AI outputs transparent and actionable.
+- [cite_start]**Agentic Workflow Persistence**: Developing intent-driven agents with **LangGraph** to handle complex task decomposition and stateful multi-turn dialogues[cite: 73, 82].
+- [cite_start]**High-Precision Retrieval**: Optimizing RAG pipelines through semantic reranking and query rewriting to achieve production-grade accuracy[cite: 67, 80, 81].
+- [cite_start]**Production Efficiency**: Implementing cost-effective inference strategies via **vLLM** and structured context compression[cite: 33, 77, 90].
 
 ---
 
