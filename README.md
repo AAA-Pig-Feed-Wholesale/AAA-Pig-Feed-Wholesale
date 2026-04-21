@@ -12,27 +12,27 @@
 
 ### 🚀 Background
 - **Academic**: CS Master Candidate specializing in Artificial Intelligence.
-- **Pivot**: 1 year in **Product Management** $\rightarrow$ **AI Application Engineering**.
-- **Philosophy**: Engineering with a product mindset to build production-ready LLM systems.
+- **Career Pivot**: 1 year in **Product Management** $\rightarrow$ **AI Application Engineering**.
+- **Philosophy**: Engineering with a product mindset to build reliable, user-centric LLM systems.
 
 ---
 
-### 🛠️ Technical Pillars
+### 🛠️ Technical Ecosystem
 
-| **RAG Systems** | **AI Agents** | **Engineering** |
+| **Knowledge & RAG** | **Agentic Intelligence** | **Core Engineering** |
 | :--- | :--- | :--- |
 | **Search**: Milvus, FAISS | **Framework**: LangGraph | **Backend**: Python, FastAPI |
-| **Retrieval**: Hybrid Search | **Orchestration**: State Machines | **Deployment**: vLLM, Ollama |
-| **Refinement**: Reranking | **Memory**: Multi-turn Persistence | **Infra**: Redis, Pydantic |
-| **Eval**: ragas, Benchmarking | **Protocols**: MCP Implementation | **Training**: LoRA, PEFT |
+| **Retrieval**: Hybrid Search | **Orchestration**: State Machines | **Inference**: vLLM, Ollama |
+| **Refinement**: Semantic Reranking | **Persistence**: Multi-turn Memory | **Infra**: Redis, Pydantic |
+| **Evaluation**: ragas, Benchmarks | **Protocols**: MCP Implementation | **Front**: WeChat Mini-Programs |
 
 ---
 
-### 🎯 Current Focus
+### 🎯 Strategic Focus
 
-- **Advanced RAG Pipelines**: Optimizing retrieval via query rewriting, semantic reranking, and context compression for high-precision knowledge grounding.
-- **Agentic Architectures**: Building stateful, intent-driven agents with **LangGraph** to manage complex task decomposition and long-term memory.
-- **Production Performance**: Engineering scalable backends for LLM applications with a focus on inference optimization and structured data interaction.
+- **Agentic Reliability**: Moving beyond stateless prompts to architecting robust, intent-driven agents using **LangGraph** for complex task decomposition and stateful persistence.
+- **High-Precision Retrieval**: Elevating RAG pipelines through multi-stage retrieval, query rewriting, and context distillation to achieve production-grade knowledge grounding.
+- **Production-Scale Delivery**: Bridging LLM capabilities with scalable backend infrastructure and high-fidelity interfaces, with a focus on inference cost and latency optimization.
 
 ---
 
