@@ -1,44 +1,40 @@
-<h1 align="center">Welcome to my GitHub 👋</h1>
+<div align="center">
 
-<p align="center">
-  <em>Learning AI by building practical systems.</em>
-</p>
+## AAA-Pig-Feed-Wholesale
 
----
+**AI Application Development · RAG · LLM Workflow**
 
-## ✦ About
+Learning by building practical projects.
 
-I am interested in practical AI application development, with a focus on RAG, LLM-based workflows, and useful tools.
+</div>
 
-I like building projects step by step, improving them through experimentation, and keeping my learning closely tied to implementation.
+<br>
 
----
+### About
 
-## ✦ What I'm Working On
+I’m interested in practical AI application development, especially RAG, multi-modal workflows, and useful tools.
+
+I prefer learning through hands-on projects, improving systems step by step, and keeping ideas close to implementation.
+
+### Focus
 
 - RAG systems
 - Multi-modal AI applications
-- Prompt engineering and context control
-- Backend services for AI products
+- Prompt engineering
+- Backend support for AI tools
 
----
+### Selected Projects
 
-## ✦ Selected Projects
+**Medical Intelligent QA System**  
+RAG, reranking, memory, caching, and multi-modal input.
 
-### Medical Intelligent QA System
-Built around retrieval, reranking, multi-modal input, memory, caching, and evaluation.
+**Preference Classification Project**  
+Fine-tuning, pipeline design, and inference optimization for LLM-related tasks.
 
-### Preference Classification Project
-Focused on fine-tuning, pipeline design, and inference optimization for LLM-related tasks.
+### Stack
 
----
+Python · LangChain · FAISS · FastAPI · Redis · Hugging Face · LoRA
 
-## ✦ Tech
-
-`Python` `LangChain` `FAISS` `FastAPI` `Redis` `Hugging Face` `LoRA`
-
----
-
-## ✦ GitHub
+### Notes
 
 This profile is mainly used to document learning, experiments, and project building.
