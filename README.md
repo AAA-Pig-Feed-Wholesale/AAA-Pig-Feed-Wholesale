@@ -11,28 +11,28 @@
 ---
 
 ### 🚀 Background
-- [cite_start]**Academic**: CS Master Candidate specializing in AI[cite: 8, 13, 57].
-- [cite_start]**Career Pivot**: 1 year in **Product Management** $\rightarrow$ **AI Application Engineering**[cite: 18, 19, 52].
-- [cite_start]**Core Competence**: Building production-ready LLM systems with an engineering-first approach[cite: 52, 91].
+- **Academic**: CS Master Candidate specializing in Artificial Intelligence.
+- **Pivot**: 1 year in **Product Management** $\rightarrow$ **AI Application Engineering**.
+- **Philosophy**: Engineering with a product mindset to build production-ready LLM systems.
 
 ---
 
 ### 🛠️ Technical Pillars
 
-| **RAG Systems** | **AI Agents & Logic** | **AI Engineering** |
+| **RAG Systems** | **AI Agents** | **Engineering** |
 | :--- | :--- | :--- |
-| [cite_start]**Search**: Milvus, FAISS [cite: 66, 79] | [cite_start]**Framework**: LangGraph  | [cite_start]**Core**: Python, FastAPI [cite: 72, 73] |
-| [cite_start]**Retrieval**: Hybrid Search [cite: 66, 80] | [cite_start]**State**: State Machines  | [cite_start]**Infra**: vLLM, Ollama [cite: 77, 90] |
-| [cite_start]**Quality**: Reranking, ragas  | [cite_start]**Memory**: Long-term Persistence [cite: 73, 82] | [cite_start]**Optimization**: LoRA, PEFT [cite: 83, 90] |
-| [cite_start]**Strategy**: Context Governance  | [cite_start]**Protocol**: MCP Implementation [cite: 90] | [cite_start]**Data**: Redis, JSON Ops [cite: 73, 78] |
+| **Search**: Milvus, FAISS | **Framework**: LangGraph | **Backend**: Python, FastAPI |
+| **Retrieval**: Hybrid Search | **Orchestration**: State Machines | **Deployment**: vLLM, Ollama |
+| **Refinement**: Reranking | **Memory**: Multi-turn Persistence | **Infra**: Redis, Pydantic |
+| **Eval**: ragas, Benchmarking | **Protocols**: MCP Implementation | **Training**: LoRA, PEFT |
 
 ---
 
 ### 🎯 Current Focus
 
-- [cite_start]**Agentic Workflow Persistence**: Developing intent-driven agents with **LangGraph** to handle complex task decomposition and stateful multi-turn dialogues[cite: 73, 82].
-- [cite_start]**High-Precision Retrieval**: Optimizing RAG pipelines through semantic reranking and query rewriting to achieve production-grade accuracy[cite: 67, 80, 81].
-- [cite_start]**Production Efficiency**: Implementing cost-effective inference strategies via **vLLM** and structured context compression[cite: 33, 77, 90].
+- **Advanced RAG Pipelines**: Optimizing retrieval via query rewriting, semantic reranking, and context compression for high-precision knowledge grounding.
+- **Agentic Architectures**: Building stateful, intent-driven agents with **LangGraph** to manage complex task decomposition and long-term memory.
+- **Production Performance**: Engineering scalable backends for LLM applications with a focus on inference optimization and structured data interaction.
 
 ---
 
